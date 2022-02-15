@@ -13,6 +13,5 @@ image_metadata:
 learning_resource_types: []
 resourcetype: Image
 title: sts-001s06-th.jpg
-type: OCWImage
 uid: 22e61f99-0322-5215-12b9-8f108c761fc5
 ---

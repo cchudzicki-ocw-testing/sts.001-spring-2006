@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: response_sample.pdf
-type: OCWFile
 uid: 7baf973a-c654-6fa9-184b-c3b1e1bc3186
 ---

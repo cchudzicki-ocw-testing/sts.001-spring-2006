@@ -8,6 +8,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Document
 title: finalexam_guide.pdf
-type: OCWFile
 uid: 33da3391-e29d-7cda-0454-a935016aaa6f
 ---

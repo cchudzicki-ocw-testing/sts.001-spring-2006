@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: bookreviewsample.pdf
-type: OCWFile
 uid: 2b478a93-a65c-09c6-04b8-af494f25057b
 ---

@@ -9,6 +9,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: celestial_rlrd.pdf
-type: OCWFile
 uid: b6f0a0d3-9c51-26f7-d62e-d8757e774a8a
 ---

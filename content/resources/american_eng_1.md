@@ -10,6 +10,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: american_eng_1.pdf
-type: OCWFile
 uid: dc219451-eea1-107f-d266-9c42426e6612
 ---

@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: bookreview_guide.pdf
-type: OCWFile
 uid: e5fb55c6-14af-ddca-69ac-30d90408516f
 ---

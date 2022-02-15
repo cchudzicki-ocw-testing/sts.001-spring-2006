@@ -10,6 +10,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: filmreview_tips.pdf
-type: OCWFile
 uid: c24f5d07-eafe-3b82-04b1-97f8aa0f3880
 ---

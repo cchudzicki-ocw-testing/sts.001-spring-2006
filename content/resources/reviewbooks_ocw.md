@@ -10,6 +10,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: reviewbooks_ocw.pdf
-type: OCWFile
 uid: b61e3736-7a37-84ad-595f-280998fcdfce
 ---
