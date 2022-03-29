@@ -14,6 +14,7 @@ license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 9e3734ef-93b9-7fe1-96f9-0c6cb26fd288
 resourcetype: Document
 title: celestial_rlrd.pdf
 uid: b6f0a0d3-9c51-26f7-d62e-d8757e774a8a
