@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 734a9230-c4b4-9a3e-c687-40217600a569
 resourcetype: Document
 title: bookreviewsample.pdf
 uid: 2b478a93-a65c-09c6-04b8-af494f25057b

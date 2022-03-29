@@ -21,7 +21,7 @@ For students who are not familiar with American history and need to familiarize 
 
 Films viewed in many class sessions are also listed in the table.
 
-*   Tips on how to evaluate films, from the 1999 version of this course (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link c24f5d07-eafe-3b82-04b1-97f8aa0f3880 "PDF" %}})  
+*   Tips on how to evaluate films, from the 1999 version of this course ({{% resource_link c24f5d07-eafe-3b82-04b1-97f8aa0f3880 "PDF" %}})  
     (Note: film review essays are no longer assigned for the course.)
 
 {{< tableopen >}}

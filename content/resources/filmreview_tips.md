@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 9e3734ef-93b9-7fe1-96f9-0c6cb26fd288
 resourcetype: Document
 title: filmreview_tips.pdf
 uid: c24f5d07-eafe-3b82-04b1-97f8aa0f3880

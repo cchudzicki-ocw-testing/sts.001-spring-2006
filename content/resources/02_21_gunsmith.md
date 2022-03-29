@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: f6b00e62-0e82-477a-fabf-2eaa435322d1
 resourcetype: Document
 title: 02_21_gunsmith.pdf
 uid: 1878730b-fa7a-1b96-4605-71a8bfd00c71

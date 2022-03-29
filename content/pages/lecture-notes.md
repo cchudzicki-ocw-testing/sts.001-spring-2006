@@ -45,7 +45,7 @@ Introduction
 What is Technology?
 {{< tdclose >}}
 {{< tdopen >}}
-What is Technology? (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link e1c2a55b-8329-905e-ccfc-6f8c17117bb4 "PDF" %}})
+What is Technology? ({{% resource_link e1c2a55b-8329-905e-ccfc-6f8c17117bb4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -57,7 +57,7 @@ What is Technology? (![This resource may not render correctly in a screen reader
 Technologies of Colonization and Conquest
 {{< tdclose >}}
 {{< tdopen >}}
-Technology in Colonial America (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 583017af-ec32-57dd-f2ee-a8bb8dc81fa8 "PDF" %}})
+Technology in Colonial America ({{% resource_link 583017af-ec32-57dd-f2ee-a8bb8dc81fa8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,9 +69,9 @@ Technology in Colonial America (![This resource may not render correctly in a sc
 Crafts and Craftsmanship in Early America
 {{< tdclose >}}
 {{< tdopen >}}
-Crafts and Craftsmanship in Early America (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 59c34a97-d916-0ad0-2a0d-93b8a97b394d "PDF" %}})  
+Crafts and Craftsmanship in Early America ({{% resource_link 59c34a97-d916-0ad0-2a0d-93b8a97b394d "PDF" %}})  
   
-Discussion of Film _The Gunsmith of Williamsburg_ (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 1878730b-fa7a-1b96-4605-71a8bfd00c71 "PDF" %}})
+Discussion of Film _The Gunsmith of Williamsburg_ ({{% resource_link 1878730b-fa7a-1b96-4605-71a8bfd00c71 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -207,7 +207,7 @@ Human Machines? Frederick W. Taylor and the Rise of Scientific Management
 Automobility and Mass Production
 {{< tdclose >}}
 {{< tdopen >}}
-"Henry Ford and the Advent of Mass Production" (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 1d66d56f-1c42-eb43-cf15-4d3c04923c91 "PDF" %}})
+"Henry Ford and the Advent of Mass Production" ({{% resource_link 1d66d56f-1c42-eb43-cf15-4d3c04923c91 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

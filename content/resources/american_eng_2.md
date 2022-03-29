@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 9e3734ef-93b9-7fe1-96f9-0c6cb26fd288
 resourcetype: Document
 title: american_eng_2.pdf
 uid: 390e2a2b-ca13-267d-4ec6-6307fea6ca77

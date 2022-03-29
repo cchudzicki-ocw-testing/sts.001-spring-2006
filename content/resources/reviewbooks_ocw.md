@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 9e3734ef-93b9-7fe1-96f9-0c6cb26fd288
 resourcetype: Document
 title: reviewbooks_ocw.pdf
 uid: b61e3736-7a37-84ad-595f-280998fcdfce
