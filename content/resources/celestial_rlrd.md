@@ -1,8 +1,8 @@
 ---
 content_type: resource
-description: This resource includes notes on "The Celestial Railroad."
+description: This resource includes notes on "The Celestial Railroad.
 draft: false
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/sts-001-technology-in-american-history-spring-2006/b6f0a0d39c5126f7d62ed8757e774a8a_celestial_rlrd.pdf
+file: /courses/sts-001-technology-in-american-history-spring-2006/b6f0a0d39c5126f7d62ed8757e774a8a_celestial_rlrd.pdf
 file_type: application/pdf
 image_metadata:
   caption: ''
@@ -27,3 +27,4 @@ video_metadata:
   video_tags: ''
   youtube_id: ''
 ---
+This resource includes notes on "The Celestial Railroad."
