@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/sts-001-technology-in-american-history-spring-2006/22e61f990322521512b98f108c761fc5_sts-001s06-th.jpg
+file: /courses/sts-001-technology-in-american-history-spring-2006/22e61f990322521512b98f108c761fc5_sts-001s06-th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Bridge on Orange & Alexandria \[Virginia\] Railroad, as repaired by army
@@ -16,3 +16,4 @@ resourcetype: Image
 title: sts-001s06-th.jpg
 uid: 22e61f99-0322-5215-12b9-8f108c761fc5
 ---
+New image Upload
