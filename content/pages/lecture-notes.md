@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: The reading section includes the lecture notes files used in the course.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The study material setion presents a helpful study guide for the final
+  exam.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials
