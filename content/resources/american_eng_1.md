@@ -6,6 +6,7 @@ file: /courses/sts-001-technology-in-american-history-spring-2006/dc219451eea110
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection

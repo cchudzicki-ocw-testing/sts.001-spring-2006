@@ -11,6 +11,7 @@ image_metadata:
   credit: ''
   image-alt: Photograph of locomotive on a railroad bridge, from 1865.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: sts-001s06-th.jpg
